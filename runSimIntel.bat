@@ -1,0 +1,1 @@
+cd ../intelpython3/python.exe BlackJack.py
